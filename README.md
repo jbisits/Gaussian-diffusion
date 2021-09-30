@@ -12,7 +12,7 @@ then activate and instantiate to build the dependencies from the julia repl
 
 (@v1.6) pkg> activate .
 
-(QG_tracer_advection) pkg> instantiate
-`
+(QG_tracer_advection) pkg> instantiate`
+
 
 The jupyter notebook `gaussdiff.ipynb` should now be able to be run provided the julia kernel provided by `IJulia` is intsalled.
