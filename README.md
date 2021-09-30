@@ -1,7 +1,7 @@
 # Gaussian-diffusion
 Notebooks to look at diffusion of Gaussian initial conditions via the diffusion equaiton.
 
-## Running the notebooks
+## Running the notebook
 To run the notebooks first clone the repository 
 
 ```
