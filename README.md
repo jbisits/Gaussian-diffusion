@@ -9,7 +9,9 @@ To run the notebooks first clone the repository
 then activate and instantiate to build the dependencies from the julia repl
 
 `julia>]
+
 (@v1.6) pkg> activate .
+
 (QG_tracer_advection) pkg> instantiate
 `
 
