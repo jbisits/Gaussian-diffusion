@@ -16,3 +16,5 @@ julia>]
 (QG_tracer_advection) pkg> instantiate
 ```
 The jupyter notebook `gaussdiff.ipynb` should now be able to be run provided the julia kernel provided by `IJulia` is intsalled.
+
+There is also a pluto notebook of the exact same material.
