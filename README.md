@@ -10,7 +10,7 @@ git clone https://github.com/jbisits/QG_tracer_advection.git
 
 then activate and instantiate to build the dependencies from the julia repl
 
-```
+```julia
 julia>]
 (@v1.6) pkg> activate .
 (QG_tracer_advection) pkg> instantiate
