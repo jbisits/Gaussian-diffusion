@@ -1,6 +1,10 @@
 # Gaussian-diffusion
 Notebooks to look at diffusion of Gaussian initial conditions via the diffusion equaiton.
 
+**Note: There was an update to `Plots.jl` which has changed the way colour limits of the `heatmap` are set.
+This has resulted in the `.gif` images not matching what is presented in my thesis.
+When I have the time I will fix this and the output will match that as I present in the thesis.**
+
 ## Running the notebook
 To run the notebooks first clone the repository 
 
