@@ -1,4 +1,7 @@
 # Gaussian-diffusion
+
+This repository has been archived as it is not maintained.
+
 Notebooks to look at diffusion of Gaussian initial conditions via the diffusion equaiton.
 
 **Note: There was an update to `Plots.jl` which has changed the way colour limits of the `heatmap` are set.
